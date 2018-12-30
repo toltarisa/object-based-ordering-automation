@@ -1,0 +1,85 @@
+C:\Users\İsa Toltar\Source\Repos\nypodev\nypodev\bin\Debug\nypodev.exe.config
+C:\Users\İsa Toltar\Source\Repos\nypodev\nypodev\bin\Debug\nypodev.exe
+C:\Users\İsa Toltar\Source\Repos\nypodev\nypodev\bin\Debug\nypodev.pdb
+C:\Users\İsa Toltar\Source\Repos\nypodev\nypodev\obj\Debug\nypodev.csprojAssemblyReference.cache
+C:\Users\İsa Toltar\Source\Repos\nypodev\nypodev\obj\Debug\nypodev.Form1.resources
+C:\Users\İsa Toltar\Source\Repos\nypodev\nypodev\obj\Debug\nypodev.KullanıcıGiris.resources
+C:\Users\İsa Toltar\Source\Repos\nypodev\nypodev\obj\Debug\nypodev.Properties.Resources.resources
+C:\Users\İsa Toltar\Source\Repos\nypodev\nypodev\obj\Debug\nypodev.csproj.GenerateResource.cache
+C:\Users\İsa Toltar\Source\Repos\nypodev\nypodev\obj\Debug\nypodev.csproj.CoreCompileInputs.cache
+C:\Users\İsa Toltar\Source\Repos\nypodev\nypodev\obj\Debug\nypodev.exe
+C:\Users\İsa Toltar\Source\Repos\nypodev\nypodev\obj\Debug\nypodev.pdb
+C:\Users\İsa Toltar\Source\Repos\nypodev\nypodev\obj\Debug\nypodev.Yetkiligiris.resources
+C:\Users\İsa Toltar\Source\Repos\nypodev\nypodev\obj\Debug\nypodev.Ürünler.resources
+C:\Users\İsa Toltar\Source\Repos\nypodev\nypodev\obj\Debug\nypodev.Sepet.resources
+C:\Users\İsa Toltar\Desktop\nypodev\nypodev\bin\Debug\nypodev.exe.config
+C:\Users\İsa Toltar\Desktop\nypodev\nypodev\bin\Debug\nypodev.exe
+C:\Users\İsa Toltar\Desktop\nypodev\nypodev\bin\Debug\nypodev.pdb
+C:\Users\İsa Toltar\Desktop\nypodev\nypodev\obj\Debug\nypodev.csprojAssemblyReference.cache
+C:\Users\İsa Toltar\Desktop\nypodev\nypodev\obj\Debug\nypodev.Form1.resources
+C:\Users\İsa Toltar\Desktop\nypodev\nypodev\obj\Debug\nypodev.KullanıcıGiris.resources
+C:\Users\İsa Toltar\Desktop\nypodev\nypodev\obj\Debug\nypodev.Properties.Resources.resources
+C:\Users\İsa Toltar\Desktop\nypodev\nypodev\obj\Debug\nypodev.Sepet.resources
+C:\Users\İsa Toltar\Desktop\nypodev\nypodev\obj\Debug\nypodev.Yetkiligiris.resources
+C:\Users\İsa Toltar\Desktop\nypodev\nypodev\obj\Debug\nypodev.Ürünler.resources
+C:\Users\İsa Toltar\Desktop\nypodev\nypodev\obj\Debug\nypodev.csproj.GenerateResource.cache
+C:\Users\İsa Toltar\Desktop\nypodev\nypodev\obj\Debug\nypodev.csproj.CoreCompileInputs.cache
+C:\Users\İsa Toltar\Desktop\nypodev\nypodev\obj\Debug\nypodev.exe
+C:\Users\İsa Toltar\Desktop\nypodev\nypodev\obj\Debug\nypodev.pdb
+C:\Users\İsa Toltar\Desktop\nypodev\nypodev\obj\Debug\nypodev.OdemeSayfasi.resources
+C:\Users\isa\Desktop\nypodev\nypodev\bin\Debug\nypodev.exe.config
+C:\Users\isa\Desktop\nypodev\nypodev\bin\Debug\nypodev.exe
+C:\Users\isa\Desktop\nypodev\nypodev\bin\Debug\nypodev.pdb
+C:\Users\isa\Desktop\nypodev\nypodev\obj\Debug\nypodev.csprojAssemblyReference.cache
+C:\Users\isa\Desktop\nypodev\nypodev\obj\Debug\nypodev.Form1.resources
+C:\Users\isa\Desktop\nypodev\nypodev\obj\Debug\nypodev.KullanıcıGiris.resources
+C:\Users\isa\Desktop\nypodev\nypodev\obj\Debug\nypodev.OdemeSayfasi.resources
+C:\Users\isa\Desktop\nypodev\nypodev\obj\Debug\nypodev.Properties.Resources.resources
+C:\Users\isa\Desktop\nypodev\nypodev\obj\Debug\nypodev.Sepet.resources
+C:\Users\isa\Desktop\nypodev\nypodev\obj\Debug\nypodev.Yetkiligiris.resources
+C:\Users\isa\Desktop\nypodev\nypodev\obj\Debug\nypodev.Ürünler.resources
+C:\Users\isa\Desktop\nypodev\nypodev\obj\Debug\nypodev.csproj.GenerateResource.cache
+C:\Users\isa\Desktop\nypodev\nypodev\obj\Debug\nypodev.csproj.CoreCompileInputs.cache
+C:\Users\isa\Desktop\nypodev\nypodev\obj\Debug\nypodev.exe
+C:\Users\isa\Desktop\nypodev\nypodev\obj\Debug\nypodev.pdb
+C:\Users\cem\Desktop\nypodev\nypodev\bin\Debug\nypodev.exe.config
+C:\Users\cem\Desktop\nypodev\nypodev\bin\Debug\nypodev.exe
+C:\Users\cem\Desktop\nypodev\nypodev\bin\Debug\nypodev.pdb
+C:\Users\cem\Desktop\nypodev\nypodev\obj\Debug\nypodev.csprojAssemblyReference.cache
+C:\Users\cem\Desktop\nypodev\nypodev\obj\Debug\nypodev.Form1.resources
+C:\Users\cem\Desktop\nypodev\nypodev\obj\Debug\nypodev.KullanıcıGiris.resources
+C:\Users\cem\Desktop\nypodev\nypodev\obj\Debug\nypodev.OdemeSayfasi.resources
+C:\Users\cem\Desktop\nypodev\nypodev\obj\Debug\nypodev.Properties.Resources.resources
+C:\Users\cem\Desktop\nypodev\nypodev\obj\Debug\nypodev.Sepet.resources
+C:\Users\cem\Desktop\nypodev\nypodev\obj\Debug\nypodev.Yetkiligiris.resources
+C:\Users\cem\Desktop\nypodev\nypodev\obj\Debug\nypodev.ÜrünDüzenle.resources
+C:\Users\cem\Desktop\nypodev\nypodev\obj\Debug\nypodev.ÜrünEkle.resources
+C:\Users\cem\Desktop\nypodev\nypodev\obj\Debug\nypodev.Ürünler.resources
+C:\Users\cem\Desktop\nypodev\nypodev\obj\Debug\nypodev.ÜrünSil.resources
+C:\Users\cem\Desktop\nypodev\nypodev\obj\Debug\nypodev.csproj.GenerateResource.cache
+C:\Users\cem\Desktop\nypodev\nypodev\obj\Debug\nypodev.csproj.CoreCompileInputs.cache
+C:\Users\cem\Desktop\nypodev\nypodev\obj\Debug\nypodev.exe
+C:\Users\cem\Desktop\nypodev\nypodev\obj\Debug\nypodev.pdb
+C:\Users\İsa Toltar\Desktop\nypodev_v1.1\nypodev\bin\Debug\nypodev.exe.config
+C:\Users\İsa Toltar\Desktop\nypodev_v1.1\nypodev\bin\Debug\nypodev.exe
+C:\Users\İsa Toltar\Desktop\nypodev_v1.1\nypodev\bin\Debug\nypodev.pdb
+C:\Users\İsa Toltar\Desktop\nypodev_v1.1\nypodev\obj\Debug\nypodev.csprojAssemblyReference.cache
+C:\Users\İsa Toltar\Desktop\nypodev_v1.1\nypodev\obj\Debug\nypodev.BankaClient.resources
+C:\Users\İsa Toltar\Desktop\nypodev_v1.1\nypodev\obj\Debug\nypodev.Form1.resources
+C:\Users\İsa Toltar\Desktop\nypodev_v1.1\nypodev\obj\Debug\nypodev.KullanıcıGiris.resources
+C:\Users\İsa Toltar\Desktop\nypodev_v1.1\nypodev\obj\Debug\nypodev.OdemeSayfasi.resources
+C:\Users\İsa Toltar\Desktop\nypodev_v1.1\nypodev\obj\Debug\nypodev.PersonelGirişi.resources
+C:\Users\İsa Toltar\Desktop\nypodev_v1.1\nypodev\obj\Debug\nypodev.Properties.Resources.resources
+C:\Users\İsa Toltar\Desktop\nypodev_v1.1\nypodev\obj\Debug\nypodev.Sepet.resources
+C:\Users\İsa Toltar\Desktop\nypodev_v1.1\nypodev\obj\Debug\nypodev.Yetkiligiris.resources
+C:\Users\İsa Toltar\Desktop\nypodev_v1.1\nypodev\obj\Debug\nypodev.ÜrünDüzenle.resources
+C:\Users\İsa Toltar\Desktop\nypodev_v1.1\nypodev\obj\Debug\nypodev.ÜrünEkle.resources
+C:\Users\İsa Toltar\Desktop\nypodev_v1.1\nypodev\obj\Debug\nypodev.Ürünler.resources
+C:\Users\İsa Toltar\Desktop\nypodev_v1.1\nypodev\obj\Debug\nypodev.ÜrünSil.resources
+C:\Users\İsa Toltar\Desktop\nypodev_v1.1\nypodev\obj\Debug\nypodev.csproj.GenerateResource.cache
+C:\Users\İsa Toltar\Desktop\nypodev_v1.1\nypodev\obj\Debug\nypodev.csproj.CoreCompileInputs.cache
+C:\Users\İsa Toltar\Desktop\nypodev_v1.1\nypodev\obj\Debug\nypodev.exe
+C:\Users\İsa Toltar\Desktop\nypodev_v1.1\nypodev\obj\Debug\nypodev.pdb
+C:\Users\cem\Desktop\nypodev\nypodev\obj\Debug\nypodev.BankaClient.resources
+C:\Users\cem\Desktop\nypodev\nypodev\obj\Debug\nypodev.Kaydol.resources
+C:\Users\cem\Desktop\nypodev\nypodev\obj\Debug\nypodev.PersonelEkle.resources
